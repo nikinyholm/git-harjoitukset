@@ -14,12 +14,7 @@ main {
   text-align: center;
 }
 
-button {
-    background-color: blue;
-    color: white;
-    margin: 10px;
-    padding: 8px;
-    border-radius: 8px;
+
 #datetime {
   background-color: white;
   width: 300px;
